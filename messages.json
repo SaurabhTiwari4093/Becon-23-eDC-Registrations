@@ -1,0 +1,659 @@
+[{
+  "_id": {
+    "$oid": "639b639146181929179e1f3d"
+  },
+  "name": "Rishi Raikwar",
+  "email": "0rishiraikwar@gmail.com",
+  "subject": "LEARNING",
+  "message": "Sir, I want to become an entraprenure but first I want to learn, as much as I can, sir plz help me to join in this opportunity, because I just want to learn by faceing them, ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671127953451"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639cb0eeb1c0df880eb98b5e"
+  },
+  "name": "Aastha Joshi",
+  "email": "joshiaastha028@gmail.com",
+  "subject": "B Tech CSE",
+  "message": "What are your programs and what are the eligibility for them.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671213294723"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639f49d6ed43264096a3043b"
+  },
+  "name": "Jay prakash ",
+  "email": "jayprakashkumar611555@gmail.com",
+  "subject": "Related to login ",
+  "message": "I have registered. But site is not showing login option?",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671383510976"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639ff759ed43264096a304b3"
+  },
+  "name": "Shiv Kumar",
+  "email": "shivchaudhary.meerut@gmail.com",
+  "subject": "Want to start up",
+  "message": "Hi, I am Shiv an entrepreneur and I want to connect with more ventures. How I can do? ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671427929850"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a11a667bb919056aec0c71"
+  },
+  "name": "Atharv Pratap Singh Chauhan",
+  "email": "ATHARAVCHAUHAN100@GMAIL.COM",
+  "subject": "\"Enquiry about Becon2022\"",
+  "message": "Hey i am Campus Ambassador of my collage,was just wondering how will the invitations be sent to us .Do we need to enroll ourselves separately.How to participate in the events,hackathons and ideathons.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671502438578"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a154987bb919056aec0cb7"
+  },
+  "name": "Konicaa Sharma ",
+  "email": "konicaasharma@gmail.com",
+  "subject": "Timings",
+  "message": "What are the timings ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671517336489"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a15e277bb919056aec0cd0"
+  },
+  "name": "Akhil Agrawal",
+  "email": "akhil2k@gmail.com",
+  "subject": "Details of business conclave",
+  "message": "Kindly share details of upcoming conclave. I am looking for good business options...?\n\nMy qualifications is B. E. + Project management.\n\nThanks and regards,\nAkhil Agrawal,\n9212161976(m)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671519783112"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a15e277bb919056aec0cd2"
+  },
+  "name": "Akhil Agrawal",
+  "email": "akhil2k@gmail.com",
+  "subject": "Details of business conclave",
+  "message": "Kindly share details of upcoming conclave. I am looking for good business options...?\n\nMy qualifications is B. E. + Project management.\n\nThanks and regards,\nAkhil Agrawal,\n9212161976(m)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671519783302"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a388f5be75ad002faa6e7e"
+  },
+  "name": "Sanchit gupta",
+  "email": "sanchitgupta0770@gmail.com",
+  "subject": "Accomodation",
+  "message": "I'm a student and it will be hard for me to find place to live for 3-4 days and i really want to attend this event, so can you tell me if you also provide accommodations. \nThank you",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671661813196"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a40eb8be75ad002faa6f05"
+  },
+  "name": "KARTIK KAISTHA",
+  "email": "kartikkaistha@gmail.com",
+  "subject": "Regarding WhatsApp group ",
+  "message": "Not able to join the whatsapp group as it is full and don't know where to login which was given in mail id in the site",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671696056352"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a43039be75ad002faa6f57"
+  },
+  "name": "Md Adil",
+  "email": "adil.170802i@gmail.com",
+  "subject": "Related to login",
+  "message": "I can't find where to login ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671704633558"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a45726e7490b0e0e72907a"
+  },
+  "name": "Gargi ",
+  "email": "singhgargi816@gmail.com",
+  "subject": "I dont no",
+  "message": "What is this🤣",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671714598636"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a59ed48e351694045477bc"
+  },
+  "name": "Rishit singh",
+  "email": "singhrishitmath@gmail.com",
+  "subject": "Event for entrepreneurship ",
+  "message": "Sorry to disturb for a very minor doubt that after registering for BECoN \nHow and where to login?? ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671798484969"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6b2b38e35169404547aa9"
+  },
+  "name": "Deep pathak",
+  "email": "pathakshivam8686@gmail.com",
+  "subject": "Hii",
+  "message": "Hii",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671869107224"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6deee8e35169404547b58"
+  },
+  "name": "UTKARSH RATHOR",
+  "email": "rathorutkarsh32@gmail.com",
+  "subject": "DOUBT",
+  "message": "FROM WHERE CAN I LOGIN ON BECON WEBSITE FROM THE CREDENTIALS GIVEN TO ME VIA MAIL AFTER REGISTERING HERE?",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671880430813"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a7073e8e35169404547c5e"
+  },
+  "name": "Dhaani Sood",
+  "email": "dhaanisood2102@gmail.com",
+  "subject": "Clarification regarding login portal for BECon'23 conclave",
+  "message": "Greetings!\nI'm a first year student from Lady Shri Ram College for Women, Delhi University. \nFirstly, I would like to express my excitement for IITD's very own Business and Entrepreneurship Conclave!! Congratulations for the same!\nFurthermore, I just wanted to enquire about the login portal/link in relation to the login details sent via mail to all those who register for the conclave. When would that be circulated? In case there's a mix-up at my end, kindly share the link for easy-access!\n\nThank you!\nRegards\nDhaani ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671890750268"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a83b306119c1bf3fcb647b"
+  },
+  "name": "Vedanshi Kohaley ",
+  "email": "vedanshi.kohaley11@gmail.com",
+  "subject": "Bsc Life sciences ",
+  "message": "Heyyy vedanshi this side ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671969584079"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a83bca6119c1bf3fcb6485"
+  },
+  "name": "Vedanshi Kohaley ",
+  "email": "vedanshi.kohaley11@gmail.com",
+  "subject": "Bsc Life sciences ",
+  "message": "Heyyy vedanshi this side ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671969738432"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab3d422c1bf6e4ab0f3ab3"
+  },
+  "name": "Testing",
+  "email": "saurabhtiwari4093@gmail.com",
+  "subject": "Testing ",
+  "message": "Testing",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672166722664"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac37a0be437a021ec37395"
+  },
+  "name": "Abhishek",
+  "email": "abhidel44@gmail.com",
+  "subject": "BECON",
+  "message": "Hi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672230816727"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac3eed7a88cb580d7781b7"
+  },
+  "name": "rewrwe",
+  "email": "erewre@gmail.com",
+  "subject": "dew",
+  "message": "rwer",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672232685412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac68627a88cb580d871a33"
+  },
+  "name": "Banothu vamshi Nayak",
+  "email": "vamshi.banothu955@gmail.com",
+  "subject": "Bsc(h) statistics ",
+  "message": "No",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672243298620"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac6ead7a88cb580d8c9788"
+  },
+  "name": "Sneha Aggarwal",
+  "email": "sneha.2125it1071@kiet.edu",
+  "subject": "Getting pass for the event ",
+  "message": "Sir/Ma'am, I want to be an entrepreneur. There are something which I know I'm lagging. But I'm sure those doubts of mine will be cleared if I join this event, then it is going to be my biggest help in making my future. So please provide me with the pass. Thankyou ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672244909250"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad309a9ba4045bcd1d3b9b"
+  },
+  "name": "SHASHANK SHONAK",
+  "email": "ashonak@gmail.com",
+  "subject": "Regarding internships",
+  "message": "Respected Madam  / Sir\nI am second year student of DELHI TECHNOLOGICAL UNIVERSITY and want to do any kind of internships program in IIT Delhi. So please suggest and guide me in this regards.  Please provide contact details of any professor ,coordinator etc for internships, events , programs etc.\nThanks",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672294554310"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad30a49ba4045bcd1d3b9e"
+  },
+  "name": "SHASHANK SHONAK",
+  "email": "ashonak@gmail.com",
+  "subject": "Regarding internships",
+  "message": "Respected Madam  / Sir\nI am second year student of DELHI TECHNOLOGICAL UNIVERSITY and want to do any kind of internships program in IIT Delhi. So please suggest and guide me in this regards.  Please provide contact details of any professor ,coordinator etc for internships, events , programs etc.\nThanks",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672294564567"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ae75fc196a2ca9debae557"
+  },
+  "name": "Nitin ",
+  "email": "rathore9i32002@gmail.com",
+  "subject": "Join ",
+  "message": "I’m too Excited to come for this event.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672377852733"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aff57ec62aa3ecf4394a14"
+  },
+  "name": "Anshul Goyal",
+  "email": "anshulgoyal589@gmail.com",
+  "subject": "Doubt",
+  "message": "I have registered for the event, can I attend the event via online mode?\nIf yes, what would be the process?",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672476030651"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b47d1a0830719949873cd9"
+  },
+  "name": "Chaitanya Gupta ",
+  "email": "guptadivya958@gmail.com",
+  "subject": "Entry Pass For the Following Event ",
+  "message": " I wanted to ask that I have registered in the intrested sessions so from where will we be getting the entry pass for the following event in IIT Delhi.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672772890422"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b67109191cbe4de1d46102"
+  },
+  "name": "TANMAY KHANDELA ",
+  "email": "khandelatanmay2@gmail.com",
+  "subject": "Not received Confirmation Mail and E-Pass",
+  "message": "I am done with all registrations and the event is scheduled from tomorrow and till now I haven't received Confirmation Mail and E-Pass. When will I receive the same?",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672900873703"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6b9ddeafe280a8cdf5036"
+  },
+  "name": "Ibrahim Rahman ",
+  "email": "ibrahimrahmanCSE@gmail.com",
+  "subject": "CSE",
+  "message": "I wanna member of becon",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672919517575"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6c5584df3fe9de6c027b2"
+  },
+  "name": "Mayank Sharma",
+  "email": "rmayank2004@gmail.com",
+  "subject": "DID NOT RECEIVE INVITATION MAIL",
+  "message": "Hello sir I didn't receive Invitation message OF IIT DELHI EVENT PLEASE SEND IT AS FR POSSIBLE\nTHANKS.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672922456017"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6ecf24ae386e48cb25039"
+  },
+  "name": "Avani Jain ",
+  "email": "avanijain3261@gmail.com",
+  "subject": "QR pass not received ",
+  "message": "I didn't receive QR PASS, till when can I get it.\nTomorrow can I come without the pass??",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672932594071"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6ecfdeafe280a8c4930df"
+  },
+  "name": "Avani Jain ",
+  "email": "avanijain3261@gmail.com",
+  "subject": "QR pass not received ",
+  "message": "I didn't receive QR PASS, till when can I get it.\nTomorrow can I come without the pass??",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672932605442"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f0a3eafe280a8c512f36"
+  },
+  "name": "Shahnawaj ",
+  "email": "shahnawajalam955@gmail.com",
+  "subject": "I want to visit ",
+  "message": "I wanted to attend the event which on 6 January ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672933539536"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f27deafe280a8c54e0c6"
+  },
+  "name": "Duraivadivel Prabakaran",
+  "email": "duraivadivel@gmail.com",
+  "subject": "Regarding Pass",
+  "message": "I have registered long back but I couldn't get pass. How to get pass for event? ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672934013412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f7044ae386e48cccef76"
+  },
+  "name": "VISHAL JAISWAL",
+  "email": "vishal2004jaiswal@gmail.com",
+  "subject": "For entry in clg passes",
+  "message": "How to enter clg please give idea about this",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672935172153"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6f89e4ae386e48cd1b252"
+  },
+  "name": "Tushar",
+  "email": "mehtatushar172@gmail.com",
+  "subject": "Mail Issue",
+  "message": "I didn't get any mail regarding my registrations.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672935582349"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6fedf4c61a0d374c7b93a"
+  },
+  "name": "Omkar upadhyay ",
+  "email": "omkarupadhyay37@gmail.com",
+  "subject": "Regarding getting paas ",
+  "message": "I have done registration and I habmve received successful registration email and till now I have not received entry passes ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672937183977"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b704dafc382b64fd745f2d"
+  },
+  "name": "Aditya Kumar Das",
+  "email": "adityakrdas05@gmail.com",
+  "subject": "Still haven't got entry pass qr code",
+  "message": "This is regarding the qr code pass that I haven't recieved for becon 2023  as i m a registered member for attending the events",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672938714744"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b71687827a3a47d56f0fd0"
+  },
+  "name": "R.Raman ",
+  "email": "ramanseptech@gmail.com",
+  "subject": "Invitation letter not received after successfully registration for 6th Jan 2023",
+  "message": "Waiting for invitation letter gor 6-8 Jan 2023",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672943239905"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7bd07ece1aad6f162b078"
+  },
+  "name": "Ayush Kumar Jha",
+  "email": "ayushkumarjha@gmail.com",
+  "subject": "Iiot",
+  "message": "Hi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672985863788"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7ecbe827a3a47d52b6be4"
+  },
+  "name": "tushar aggarwal",
+  "email": "tusharaggarwal0@gmail.com",
+  "subject": "is pranjal kamra coming to IITDelhi or he will be attending online?",
+  "message": "is pranjal kamra coming to IITDelhi or he will be attending online?",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672998078921"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b923adc32732fdc77e6d4b"
+  },
+  "name": "S.k.gupta",
+  "email": "infoinstandard@gmail.com",
+  "subject": "Becon'23",
+  "message": "Registration to attend",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673077677074"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b93fdb827a3a47d57f1afc"
+  },
+  "name": "Kartik Rajput ",
+  "email": "kartikrajput1404@gmail.com",
+  "subject": "50% sponsor hoddie",
+  "message": "Respect sir/mam Im from iit delhi i came to know about that becon is giving hoddies at 50% rates to iit delhi student i want one of them please help me outtt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673084891386"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b946e1c32732fdc7a959a6"
+  },
+  "name": "Arpit ",
+  "email": "221310013@nitdelhi.ac.in",
+  "subject": "Didn't received QR",
+  "message": "I signed up for the event and i didn't got the qr",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673086689554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b95f7c827a3a47d58a5d9f"
+  },
+  "name": "Arpit ",
+  "email": "221310013@nitdelhi.ac.in",
+  "subject": "Didn't received QR",
+  "message": "I signed up for the event and i didn't got the qr",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673092988180"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b992a4ece1aad6f1fd9e3b"
+  },
+  "name": "shreya",
+  "email": "kaushikshreya1651988@gmail.com",
+  "subject": "Query ",
+  "message": "To attend the 4pm - 5pm seminar session do I have to enter iitd campus at 8am or am I  eligible to enter any time (around 3:30 pm) ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673106084773"
+    }
+  },
+  "__v": 0
+}]
